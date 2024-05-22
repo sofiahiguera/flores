@@ -1,0 +1,2 @@
+tensorflow==".15
+streamlit
